@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=53F762&width=1000&lines=Howdy!+My+name+is+Tiana+Davis.+I+am+a+Software+Engineer,+musician,+full-stack+developer,+and+fashion+icon.;+I+enjoy+reading+and+chefing.;+Additionally,+I+enjoy+learning+new+things,+language+aquisition,+and+hanging+out+with+friends+and_family:relaxed:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=53F762&width=1000&lines=Howdy!+My+name+is+Tiana+Davis.+I+am+a+Software+Engineer,+musician,+full-stack+developer,+and+fashion+icon.;+I+enjoy+reading+and+chefing.;+Additionally,+I+enjoy+learning+new+things,+language+aquisition,+and+hanging+out+with+friends+and_family:relaxed:)](https://git.io/typing-svg)
 
 
 
