@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=1AA7EC&width=1000&lines=Howdy!+My+name+is+Tiana+Davis.+I+am+a+Software+Engineer,+musician,+full-stack+developer,+and+fashion+icon.;+I+enjoy+reading+and+chef-ing.;+Additionally,+I+enjoy+learning+new+things,+language+aquisition,+and+hanging+out+with+friends+and+family:relaxed:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=1AA7EC&width=1000&lines=Howdy!+My+name+is+Tiana+Davis.+I+am+a+Software+Engineer;+musician;+full-stack+developer;+and+fashion+icon.;+I+enjoy+reading+and+chef-ing.;+Additionally,+I+enjoy+learning+new+things;+language+aquisition;+and+hanging+out+with+friends+and+family:relaxed:)](https://git.io/typing-svg)
 
 [![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TianaD&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
