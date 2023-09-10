@@ -1,9 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gil+Sans+Code&duration=2000&pause=1000&color=1AA7EC&width=1000&lines=Howdy!+My+name+is+Tiana+Davis.+I+am+a+Software+Engineer,;+musician,;+full-stack+developer,;+and+fashion+icon.;+I+enjoy+reading+and+chef-ing.;+Additionally,+I+enjoy+learning+new+things,;+language+aquisition,;+and+hanging+out+with+friends+and+family☺️;+Let's+start+over!)](https://git.io/typing-svg)
 
-[![Linkedin Link](https://img.shields.io/badge/-Tiana+Davis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiana-davis-60907020b/)](https://www.linkedin.com/in/tiana-davis-60907020b/)
-
 [![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TianaD&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+## ![Profile Image](<assets/Banner Image Black Resized and Cropped.png>) About Me [Profile Image](<assets/Banner Image Black Resized and Cropped.png>)
+
+Software Engineer with exceptional performance in full software development lifecycle and upgrades. Working closely with clients to establish problem specifications and system designs. Manages design effort and guides installation process for on-schedule product launches. Demonstrates high aptitude, dedicated to growth in the technology field, and motivated to channel creativity. In addition to software development, Tiana has interests in fashion, personal development, and videography.
 
 ## Languages
 
@@ -21,3 +22,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+## HMU![Winking Face](assets/winking-face.256x256.png)!
+
+[![Linkedin Link](https://img.shields.io/badge/-Tiana+Davis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiana-davis-60907020b/)](https://www.linkedin.com/in/tiana-davis-60907020b/)
