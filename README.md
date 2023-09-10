@@ -2,7 +2,7 @@
 
 [![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TianaD&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-## ![ProfileImage](<assets/Banner Image Black Resized and Cropped.png>) About Me [ProfileImage](<assets/Banner Image Black Resized and Cropped.png>)
+## <img src="./assets/Banner Image Black Resized and Cropped.png" alt="drawing" width="20"/> About Me <img src="./assets/Banner Image Black Resized and Cropped.png" alt="drawing" width="20"/>
 
 Software Engineer with exceptional performance in full software development lifecycle and upgrades. Working closely with clients to establish problem specifications and system designs. Manages design effort and guides installation process for on-schedule product launches. Demonstrates high aptitude, dedicated to growth in the technology field, and motivated to channel creativity. In addition to software development, Tiana has interests in fashion, personal development, and videography.
 
@@ -23,6 +23,6 @@ Software Engineer with exceptional performance in full software development life
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-## HMU![WinkingFace](assets/winking-face.256x256.png)!
+## HMU!<img src="./assets/winking-face.256x256.png" alt="drawing" width="20"/>!
 
 [![Linkedin Link](https://img.shields.io/badge/-Tiana+Davis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiana-davis-60907020b/)](https://www.linkedin.com/in/tiana-davis-60907020b/)
