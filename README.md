@@ -1,8 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=1AA7EC&width=1000&lines=Howdy!+My+name+is+Tiana+Davis.+I+am+a+Software+Engineer,;+musician,;+full-stack+developer,;+and+fashion+icon.;+I+enjoy+reading+and+chef-ing.;+Additionally,+I+enjoy+learning+new+things,;+language+aquisition,;+and+hanging+out+with+friends+and+family☺️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gil+Sans+Code&duration=2000&pause=1000&color=1AA7EC&width=1000&lines=Howdy!+My+name+is+Tiana+Davis.+I+am+a+Software+Engineer,;+musician,;+full-stack+developer,;+and+fashion+icon.;+I+enjoy+reading+and+chef-ing.;+Additionally,+I+enjoy+learning+new+things,;+language+aquisition,;+and+hanging+out+with+friends+and+family☺️;+Let's+start+over!)](https://git.io/typing-svg)
+
+[![Linkedin Link](https://img.shields.io/badge/-Tiana+Davis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiana-davis-60907020b/)](https://www.linkedin.com/in/tiana-davis-60907020b/)
 
 [![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TianaD&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Linkedin Link](https://img.shields.io/badge/-Tiana+Davis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiana-davis-60907020b/)](https://www.linkedin.com/in/tiana-davis-60907020b/)
 
 ## Languages
 
