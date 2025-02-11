@@ -25,4 +25,4 @@ Software Engineer with exceptional performance in full software development life
 
 ## HMU<img src="./assets/winking-face.256x256.png" alt="drawing" width="20"/>!
 
-![Linkedin Link](https://img.shields.io/badge/-Tiana+Smith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://[www.linkedin.com/in/tiana-davis-60907020b/(https://www.linkedin.com/in/tiana-smith-60907020b/)])
+[![Linkedin Link](https://img.shields.io/badge/-Tiana+Smith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiana-smith-60907020b/)](https://www.linkedin.com/in/tiana-smith-60907020b/)
